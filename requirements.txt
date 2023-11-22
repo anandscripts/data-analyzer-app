@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+python-docx
+pandas
+streamlit
+plost
